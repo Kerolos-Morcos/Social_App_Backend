@@ -1,0 +1,24 @@
+{
+  "name": "social_app_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kerolos-Morcos/Social_App_Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kerolos-Morcos/Social_App_Backend/issues"
+  },
+  "homepage": "https://github.com/Kerolos-Morcos/Social_App_Backend#readme",
+  "dependencies": {
+    "typescript": "^7.0.2"
+  }
+}
